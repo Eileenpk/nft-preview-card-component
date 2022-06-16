@@ -21,19 +21,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/interactive%20rating%20landing%20page.png)
-![](./images/interactive%20rating%20popup.png)
+![](./images/nftScreenShot.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [(https://github.com/Eileenpk/nft-preview-card-component.git)](https://your-solution-url.com)
+- Live Site URL: [(https://eileenpk.github.io/nft-preview-card-component/)](https://your-live-site-url.com)
 
 ## My process
 - Write Html
-- Write Css
-- Write pseudocode for JvaScript
-- Write JavaScript 
+- Write Css 
 
 ### Built with
 

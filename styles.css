@@ -31,7 +31,7 @@ body {
 main {
     background: var(--second-color);
     width: 90%;
-    height: 90vh;
+    height: 37.25rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
